@@ -1,5 +1,4 @@
 import java.util.Scanner;
-a
 public class Palindrome {
     public static void main(String[] args) {
         Scanner word = new Scanner(System.in);
